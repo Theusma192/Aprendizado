@@ -1,0 +1,23 @@
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.exe.config
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.exe
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.pdb
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\itextsharp.dll
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\itextsharp.xml
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csprojResolveAssemblyReference.cache
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.Properties.Resources.resources
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.GenerateResource.Cache
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.exe
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.pdb
+c:\users\mac\documents\visual studio 2012\Projects\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.Form1.resources
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.exe.config
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.exe
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.pdb
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\itextsharp.xml
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.AssemblyReference.cache
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.Form1.resources
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.Properties.Resources.resources
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.GenerateResource.cache
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.CoreCompileInputs.cache
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.CopyComplete
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.exe
+D:\Matheus\Aulas\Converte_PDF_Texto\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.pdb
